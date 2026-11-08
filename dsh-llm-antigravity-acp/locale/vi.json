@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Bộ kết nối mô hình Antigravity (ACP)",
+    "description": "Nhà cung cấp mô hình chính cho DeepSeek Harness: điều khiển trực tiếp CLI Antigravity chính thức cục bộ (`agy acp`) qua giao thức ACP v1 với các công cụ thuộc quyền quản lý của DSH; hỗ trợ các mô hình Gemini và Claude kèm ngữ cảnh và mức độ suy luận (reasoning) riêng cho từng mô hình."
+  }
+}
